@@ -16,6 +16,7 @@
 ## Fase 2: Inteligência de mercado
 - [ ] Estimar quantas instalações ficam acima de 10 mil e de 25 mil tCO₂e no Brasil, por setor
 - [ ] Mapa de players verificado, no Brasil e no exterior
+- [~] Tese 1: consultoria para transportadoras (`base-conhecimento/mercado/oportunidade-transportadoras.md`)
 - [ ] Matriz de oportunidades (atratividade × barreira de entrada)
 - [ ] Relatório de oportunidades (documento para compartilhar)
 
