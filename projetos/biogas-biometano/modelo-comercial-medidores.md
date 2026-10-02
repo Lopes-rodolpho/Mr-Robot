@@ -15,6 +15,14 @@
 
 ⚠️ **Limite: o 7300 é medidor de processo, não de venda.** A própria KROHNE descreve a linha OPTISONIC 7300 como adequada para aplicações de gás natural **sem transferência de custódia**. Não encontramos portaria de aprovação de modelo do Inmetro sob a **Portaria 156/2022** (gás natural, biometano e GLP em venda) para o 7300. Além disso, essa portaria **não cobre biogás bruto**. **Conclusão provisória:** o 7300 serve para o **MRV de emissões** (camada 1, com calibração rastreável), mas a **medição do biometano vendido** exige outro equipamento aprovado. Na KROHNE, a linha de custódia é a **ALTOSONIC V12**, que também precisa ter a aprovação no Brasil confirmada. **Perguntar à Conaut:** (1) se o 7300 tem aprovação de modelo no Inmetro; (2) qual medidor eles indicam para biometano sob a Portaria 156 e o RTM ANP/Inmetro; (3) se fornecem o sistema completo de medição fiscal.
 
+
+### Medição de biogás bruto e de biometano vendido: o que cada uma exige
+
+| Ponto de medição | Norma | Equipamento típico | Observação |
+|---|---|---|---|
+| **Biogás bruto** (MRV de emissões, créditos, inventário) | **Não há RTM do Inmetro.** Vale a metodologia de crédito ou o plano de monitoramento: calibração conforme o fabricante, rastreável a laboratório acreditado (RBC, ISO/IEC 17025) | Ultrassônico de processo (ex.: OPTISONIC 7300 Biogas), térmico | Confirmar qual laboratório RBC tem **escopo de gás**. O laboratório da Conaut (CAL 0168) parece ser de líquidos, então é preciso perguntar |
+| **Biometano vendido** (contrato, rede, CGOB) | **Portaria Inmetro 156/2022**: aprovação de modelo, verificação inicial e periódica pelo IPEM. Na rede, também o **RTM ANP/Inmetro** e as regras da agência estadual | **Rotativo ou turbina + corretor de volume (PTZ)**, mais baratos; ultrassônico de custódia (ex.: ALTOSONIC V12), mais caro | Exemplos aprovados encontrados: turbina **AEPIO TBQM** (2024) e ultrassônico **RMG USM-GT-400** (Portaria Dimel 315/2025). **Na injeção em rede, o medidor do ponto de recebimento costuma ser da distribuidora** (confirmar contrato e regra estadual) |
+
 ## 2. Onde o medidor gera valor (argumento de venda)
 
 | Uso | Valor para o cliente |
