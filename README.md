@@ -29,6 +29,7 @@ produtos/
   sistema/              Especificação do software de gestão de GEE
   curso/                Estrutura do curso
   livro/                Sumário e capítulos do livro
+projetos/               Projetos paralelos (ex.: biogas-biometano/)
 ROADMAP.md              Plano de trabalho por fases
 ```
 
