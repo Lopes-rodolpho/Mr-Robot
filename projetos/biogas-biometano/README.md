@@ -11,6 +11,7 @@
 | `ficha-panorama-cibiogas-2025.md` | Resumo detalhado do Panorama do Biogás 2025 (CIBiogás) |
 | `oportunidades-de-solucao.md` | 6 soluções propostas a partir dos dados, com priorização |
 | `modelo-comercial-medidores.md` | Como incorporar a venda de medidores de biogás (ex.: OPTISONIC 7300, Conaut) às soluções |
+| `prospeccao/` | Fichas de prospecção por cliente (ex.: `sabesp.md`) |
 | `README.md` | Este resumo: panorama do setor, mapa da cadeia, lacunas e próximos passos |
 
 ### Colunas da base
@@ -26,7 +27,7 @@
 - **Biometano**: **21 plantas autorizadas pela ANP** (jul/2026), com **1,37 milhão de Nm³ por dia**. Há mais **48 em autorização** (cerca de 2 milhões de Nm³ por dia).
 - O planejamento do setor identifica **127 projetos adicionais**, o que poderia levar a oferta a **cerca de 8 milhões de m³ por dia em 2030**. A expectativa é de **R$ 25 bilhões de investimento até 2030**.
 - **São Paulo lidera**, com 8 plantas de biometano e cerca de 500 mil m³ por dia, seguido por RJ, PR e MG.
-- **Mandato do Combustível do Futuro**: a mistura obrigatória de biometano no gás natural começou em 2026. ⚠️ As fontes divergem quanto ao percentual de 2026 (0,5% ou 1%) e precisam ser confirmadas na resolução do CNPE.
+- **Mandato do Combustível do Futuro**: a mistura obrigatória de biometano no gás natural começou em 2026. **O CNPE fixou a meta de 2026 em 0,5%** ([Agência Brasil, mai/2026](https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/gas-natural-conselho-fixa-meta-de-descarbonizacao-do-setor-para-05)); a lei permite de 1% a 10% no longo prazo.
 - **RenovaBio**: apenas **6 das 19 plantas de biometano** estavam certificadas em fev/2026. **É um sinal de oportunidade de serviço.**
 
 ## Mapa da cadeia
