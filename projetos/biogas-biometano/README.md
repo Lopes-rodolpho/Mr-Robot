@@ -1,12 +1,15 @@
 # Projeto paralelo: biogás e biometano
 
-> Status: **primeira versão do mapeamento (out/2026)**, com 70 registros levantados em pesquisa web. A base ainda **não é exaustiva**: veja a seção "Lacunas".
+> Status: **versão 2 (out/2026)**, com 120 registros: pesquisa web + Panorama do Biogás 2025 (CIBiogás). A base ainda **não é exaustiva**: veja a seção "Lacunas".
 
 ## Arquivos
 
 | Arquivo | Conteúdo |
 |---|---|
-| `empresas.csv` | Base de dados das empresas da cadeia. Separador `;`, abre direto no Excel |
+| `empresas.csv` | Base de dados das empresas da cadeia (120 registros). Separador `;`, abre direto no Excel |
+| `estados-panorama-2025.csv` | Dados por estado (plantas, volume, uso), do Panorama CIBiogás 2025 |
+| `ficha-panorama-cibiogas-2025.md` | Resumo detalhado do Panorama do Biogás 2025 (CIBiogás) |
+| `oportunidades-de-solucao.md` | 6 soluções propostas a partir dos dados, com priorização |
 | `README.md` | Este resumo: panorama do setor, mapa da cadeia, lacunas e próximos passos |
 
 ### Colunas da base
@@ -17,7 +20,8 @@
 
 ## Panorama do setor (números de 2025-2026)
 
-- **1.803 plantas de biogás** em operação no Brasil (2025), com produção próxima de **5 bilhões de Nm³ por ano**. Do biogás, **62% vai para eletricidade**, **34% para biometano** e o restante para calor.
+- Dados oficiais detalhados em `ficha-panorama-cibiogas-2025.md`.
+- **1.803 plantas de biogás** cadastradas no Brasil (2025; 1.727 em operação), com produção próxima de **5 bilhões de Nm³ por ano**. Do biogás, **62% vai para eletricidade**, **34% para biometano** e o restante para calor.
 - **Biometano**: **21 plantas autorizadas pela ANP** (jul/2026), com **1,37 milhão de Nm³ por dia**. Há mais **48 em autorização** (cerca de 2 milhões de Nm³ por dia).
 - O planejamento do setor identifica **127 projetos adicionais**, o que poderia levar a oferta a **cerca de 8 milhões de m³ por dia em 2030**. A expectativa é de **R$ 25 bilhões de investimento até 2030**.
 - **São Paulo lidera**, com 8 plantas de biometano e cerca de 500 mil m³ por dia, seguido por RJ, PR e MG.
@@ -46,7 +50,7 @@ CERTIFICAÇÃO / SERVIÇOS: KPMG, Instituto Totum (RenovaBio), AFRY (engenharia)
 INSTITUIÇÕES: Abiogás, CIBiogás, GEF Biogás Brasil, B2Biogas (diretório)
 ```
 
-## Distribuição da base atual (70 registros)
+## Distribuição da primeira versão da base (70 registros, antes do Panorama)
 
 | Elo da cadeia | Registros |
 |---|---|
@@ -59,7 +63,7 @@ INSTITUIÇÕES: Abiogás, CIBiogás, GEF Biogás Brasil, B2Biogas (diretório)
 
 ## Lacunas: o que falta para a lista ficar "completa"
 
-1. **Lista oficial da ANP**: as 21 plantas autorizadas e as 48 em autorização. Fonte: *Painel Dinâmico de Produtores de Biometano* da ANP. Ele **não pôde ser acessado deste ambiente**, porque o acesso de rede bloqueia vários sites. É preciso baixar manualmente ou liberar o domínio `gov.br`.
+1. ~~Parcialmente coberta pelo Panorama CIBiogás (59 unidades em mar/2026), mas ainda sem a lista nominal.~~ **Lista oficial da ANP**: as 21 plantas autorizadas e as 48 em autorização. Fonte: *Painel Dinâmico de Produtores de Biometano* da ANP. Ele **não pôde ser acessado deste ambiente**, porque o acesso de rede bloqueia vários sites. É preciso baixar manualmente ou liberar o domínio `gov.br`.
 2. **Panorama Abiogás** (relatório anual) e **mapa CIBiogás (BiogasMap)**: listam as 1.803 plantas de biogás, inclusive as pequenas.
 3. **Diretório B2Biogas**: dezenas de fornecedores (biodigestores, upgrading, motores, engenharia). Também bloqueado aqui.
 4. **Lista de firmas inspetoras credenciadas no RenovaBio** e **agentes certificadores do CGOB**, a serem publicados pela ANP.
