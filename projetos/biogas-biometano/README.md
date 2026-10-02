@@ -6,10 +6,11 @@
 
 | Arquivo | Conteúdo |
 |---|---|
-| `empresas.csv` | Base de dados das empresas da cadeia (120 registros). Separador `;`, abre direto no Excel |
+| `empresas.csv` | Base de dados das empresas da cadeia (122 registros). Separador `;`, abre direto no Excel |
 | `estados-panorama-2025.csv` | Dados por estado (plantas, volume, uso), do Panorama CIBiogás 2025 |
 | `ficha-panorama-cibiogas-2025.md` | Resumo detalhado do Panorama do Biogás 2025 (CIBiogás) |
 | `oportunidades-de-solucao.md` | 6 soluções propostas a partir dos dados, com priorização |
+| `modelo-comercial-medidores.md` | Como incorporar a venda de medidores de biogás (ex.: OPTISONIC 7300, Conaut) às soluções |
 | `README.md` | Este resumo: panorama do setor, mapa da cadeia, lacunas e próximos passos |
 
 ### Colunas da base
