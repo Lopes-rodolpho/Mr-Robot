@@ -63,7 +63,7 @@ INSTITUIÇÕES: Abiogás, CIBiogás, GEF Biogás Brasil, B2Biogas (diretório)
 
 ## Lacunas: o que falta para a lista ficar "completa"
 
-1. ~~Parcialmente coberta pelo Panorama CIBiogás (59 unidades em mar/2026), mas ainda sem a lista nominal.~~ **Lista oficial da ANP**: as 21 plantas autorizadas e as 48 em autorização. Fonte: *Painel Dinâmico de Produtores de Biometano* da ANP. Ele **não pôde ser acessado deste ambiente**, porque o acesso de rede bloqueia vários sites. É preciso baixar manualmente ou liberar o domínio `gov.br`.
+1. **Lista oficial da ANP** (o Panorama CIBiogás traz os totais, com 59 unidades em mar/2026, mas não os nomes): as 21 plantas autorizadas e as 48 em autorização. Fonte: *Painel Dinâmico de Produtores de Biometano* da ANP. Ele **não pôde ser acessado deste ambiente**, porque o acesso de rede bloqueia vários sites. É preciso baixar manualmente ou liberar o domínio `gov.br`.
 2. **Panorama Abiogás** (relatório anual) e **mapa CIBiogás (BiogasMap)**: listam as 1.803 plantas de biogás, inclusive as pequenas.
 3. **Diretório B2Biogas**: dezenas de fornecedores (biodigestores, upgrading, motores, engenharia). Também bloqueado aqui.
 4. **Lista de firmas inspetoras credenciadas no RenovaBio** e **agentes certificadores do CGOB**, a serem publicados pela ANP.
