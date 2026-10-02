@@ -13,7 +13,7 @@
 | **Biometano em 3 ETEs da Grande SP**: Barueri (~100 mil Nm³/dia), Parque Novo Mundo e São Miguel, somando ~150 mil Nm³/dia; novos digestores de 10 mil m³ em Barueri | Biometano gera **CGOB, CBIO e I-REC**, que exigem volume medido e rastreável |
 | Capex de **R$ 20 bilhões em 2026** e compromisso de ~R$ 70 bilhões até 2029 (pós-privatização, Equatorial como investidora de referência) | Há orçamento. Medição é um custo pequeno perto disso |
 | **Conaut já tem medidores instalados na Sabesp** (ex.: ETE Barueri), segundo a informação que temos | Referência interna: "vocês já usam o equipamento; a proposta é transformar o dado em resultado de ESG" |
-| O **OPTISONIC 7300 atende à Portaria Inmetro 156/2022** (gás natural e biometano), segundo a Conaut | A Sabesp conhece metrologia legal pelos hidrômetros (Portaria 155). O mesmo medidor serve ao inventário **e** à medição do biometano que será vendido (Barueri, Parque Novo Mundo, São Miguel) |
+| A Sabesp conhece metrologia legal pelos hidrômetros (Portaria Inmetro 155/2022) | Argumento: o metano das ETEs também precisa de uma cadeia de confiança. O 7300 atende ao MRV, mas a **venda de biometano** (Portaria 156/2022) pede um medidor aprovado para custódia, a confirmar com a Conaut |
 
 ## 2. A ideia de negócio, em uma frase
 

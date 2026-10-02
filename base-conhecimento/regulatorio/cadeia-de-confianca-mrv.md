@@ -41,7 +41,7 @@ Equipamento adequado           Plano de monitoramento               Organismo in
 
 - **Calibração rastreável:** as metodologias de carbono e os planos de monitoramento exigem instrumentos calibrados, conforme o fabricante ou as normas, com rastreabilidade metrológica. No Brasil, isso significa **laboratórios acreditados pela Cgcre/Inmetro (RBC, ABNT NBR ISO/IEC 17025)**.
 - **Metrologia legal** só se aplica quando há **transação comercial**. Por exemplo, o **biometano vendido** na rede da Comgás segue o RTM ANP/Inmetro e a Portaria 156/2022. **O biogás bruto medido para calcular emissões normalmente não está sujeito à metrologia legal**, mas precisa de calibração rastreável (a confirmar caso a caso no plano de monitoramento).
-- **Medidor que atende às duas situações:** segundo a Conaut, o **OPTISONIC 7300 Biogas atende à Portaria Inmetro 156/2022**. Assim, um único equipamento cobre o MRV de emissões e a medição com efeito comercial do biometano. É preciso confirmar o escopo na portaria de aprovação de modelo; a medição fiscal sob o RTM ANP/Inmetro exige também a aprovação do **sistema** pela ANP.
+- **Um medidor não cobre automaticamente as duas situações:** a Portaria 156/2022 trata de gás natural, biometano e GLP **em venda**, e não de biogás bruto. Medidores de processo, como o OPTISONIC 7300 (descrito pela KROHNE como "sem transferência de custódia"), atendem ao MRV de emissões. A venda de biometano exige um medidor com **aprovação de modelo do Inmetro**, e a medição fiscal sob o RTM ANP/Inmetro exige ainda a aprovação do **sistema** pela ANP. É preciso consultar as portarias de aprovação de modelo no site do Inmetro.
 
 ### Camada 2: monitoramento e relato
 
