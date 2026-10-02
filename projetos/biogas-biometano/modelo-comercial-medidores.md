@@ -13,7 +13,7 @@
 
 **Por que encaixa no MRV:** as metodologias de crédito de metano (dejetos animais, aterros, efluentes), o RenovaBio, o CGOB e o inventário de GEE dependem das mesmas duas variáveis, **volume de biogás × % de metano**, medidas de forma **contínua**. Este equipamento entrega as duas num único ponto.
 
-⚠️ **Limite:** o equipamento mede **biogás bruto**. A **medição fiscal do biometano** vendido (transferência de custódia, regras ANP/Inmetro) normalmente exige outro tipo de medidor e um cromatógrafo. A Conaut/KROHNE pode ter outras linhas para isso, mas é preciso confirmar.
+✅ **Conformidade metrológica (informação da Conaut, out/2026): o OPTISONIC 7300 atende à Portaria Inmetro 156/2022** (RTM de medidores de gás natural, biometano e GLP). Isso significa que o **mesmo equipamento** pode servir à camada de MRV (biogás bruto, emissões) **e** a medições com efeito comercial (biometano). Na prática, é **um único fornecedor para as camadas 1 e 2**. ⚠️ **Antes de usar em proposta**, obter da Conaut a **portaria de aprovação de modelo** do Inmetro e conferir o **escopo** (fluidos, diâmetros, classe de exatidão, versões aprovadas). Em **medição fiscal** sob o RTM ANP/Inmetro (ex.: injeção na rede), o **sistema** de medição (computador de vazão, cromatógrafo, trechos retos) também precisa de aprovação da ANP, e não só o medidor.
 
 ## 2. Onde o medidor gera valor (argumento de venda)
 
